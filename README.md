@@ -16,7 +16,13 @@ Render text in the style of Mario RPG's stat buff notifications, e.g., `ATTACK U
 
 ## Try it out
 
-> python main.py "your phrase here"
+MacOS:
+
+> python main.py 'your phrase here!'
+
+Windows:
+
+> python main.py "your phrase here!"
 
 ### Notes
 
