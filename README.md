@@ -1,6 +1,10 @@
 ## Mario RPG style text animations
 
-Render text in the style of Mario RPG's stat buff notifications, e.g., `ATTACK UP!`
+Render text in the style of Mario RPG's stat buff notifications, e.g., `ATTACK UP!` Made with Pygame.
+
+Mario RPG               |  Pygame
+:----------------------:|:---------------------------:
+![](examples/geno.gif)  |  ![](examples/serenity.gif)
 
 ### Designed for
 
