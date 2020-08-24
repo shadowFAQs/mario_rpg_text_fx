@@ -48,7 +48,7 @@ class Text:
 
     def print_text(self):
         self.surf.fill(pygame.Color('#ff00ff'))
-        current_surf = 'surf_dim' if self.flash_counter < 4 else 'surf_bright'
+        current_surf = 'surf_dim' if self.flash_counter < 3 else 'surf_bright'
         for n, obj in enumerate(self.text_objs):
             if obj['counter'] == obj['warmup']:
                 obj['vy'] += .4
@@ -88,7 +88,7 @@ class Text:
                 obj['counter'] += 1
         if self.flash:
             self.flash_counter += 1
-            if self.flash_counter == 8:
+            if self.flash_counter == 6:
                 self.flash_counter = 0
             self.print_text()
         if not [o for o in self.text_objs if o['y']]:
