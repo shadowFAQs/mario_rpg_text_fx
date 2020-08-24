@@ -2,9 +2,7 @@
 
 Render text in the style of Mario RPG's stat buff notifications, e.g., `ATTACK UP!` Made with Pygame.
 
-Mario RPG               |  Pygame
-:----------------------:|:---------------------------:
-![](examples/geno.gif)  |  ![](examples/serenity.gif)
+![](./example/geno.gif) ![](./example/serenity.gif)
 
 ### Designed for
 
