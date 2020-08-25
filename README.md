@@ -12,7 +12,7 @@ Render text in the style of Mario RPG's stat buff notifications, e.g., `ATTACK U
 ### Tested on
 
 - MacOS 10.13.6
-- Windows 10
+- Windows 10 v1909
 
 ## Try it out
 
