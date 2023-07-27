@@ -6,7 +6,7 @@ Made with Pygame.
 
 ![](./example/geno.gif) ![](./example/serenity.gif)
 
-![](./example/dawrin.gif)
+![](./example/darwin.gif)
 
 ### Designed for
 
